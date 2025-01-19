@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="topsis-prak-3844",
-    version="0.1",
+    version="1.0.1",
     author="prakriti",
     author_email="pprakriti_be22@thapar.edu",
     description="A Python package to implement the TOPSIS method for multi-criteria decision-making.",
